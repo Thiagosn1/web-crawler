@@ -1,5 +1,7 @@
 # Web Crawler
 
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=GREEN&style=for-the-badge"/>
+
 ### Tarefa 1: Baixar o documento do padrão TISS:
 
 1. O bot deve acessar o site utilizando os recursos aprendidos no Nível ZG, no caso, a HTTPBuilder;
